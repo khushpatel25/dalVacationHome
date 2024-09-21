@@ -71,7 +71,7 @@ To set up the project locally, follow these steps:
 
 3. **Backend Setup**:
    - Set up the AWS services (Cognito, Lambda, DynamoDB, SQS, SNS).
-   - Configure GCP services (Cloud Functions, Pub/Sub, Firestore, Cloud Run).
+   - Configure GCP services (Cloud Functions, Pub/Sub, AWS Lex, Cloud Run).
    - Update the environment variables with the necessary credentials for AWS and GCP.
 
 4. **Run the Application**:
